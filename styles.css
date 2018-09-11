@@ -14,6 +14,9 @@ img {
   margin-right: 500px;
   padding: 20px;
 }
+background{
+  color: #dc42f4;
+}
 p{
   margin-left: 100px
 }
@@ -31,4 +34,7 @@ header {
 }
 .LargePink{
   color:pink; font-size:26px;
+}
+.RodgersText{
+  color: blue; font-size: 18px, padding: 5px;
 }
