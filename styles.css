@@ -17,6 +17,11 @@ img {
 font-family: 'Gamja Flower', cursive;
 font-family{ 'Gamja Flower', cursive;
 }
+body {
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
 
 background{
   color: #dc42f4;
@@ -41,4 +46,26 @@ header {
 }
 .RodgersText{
   color: blue; font-size: 18px, padding: 5px;
+}
+.StSaviours{
+  border: 15px solid #3e2b14;
+  padding: 10px;
+}
+.StSaviours2{
+border-radius: 100%; // full circular image
+}
+
+
+.alignnone{
+-webkit-transition: all 1s ease-in-out;
+-moz-transition: all 1s ease-in-out;
+-o-transition: all 1s ease-in-out;
+-ms-transition: all 1s ease-in-out;
+}
+
+.alignnone {
+-webkit-transform: rotate(360deg);
+-moz-transform: rotate(360deg);
+-o-transform: rotate(360deg);
+-ms-transform: rotate(360deg);
 }
