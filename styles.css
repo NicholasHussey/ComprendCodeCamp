@@ -5,12 +5,12 @@ h1 {
 }
 h2{
   color: purple;
-  margin-left: 125px;
+  margin-left: 100px;
   font-size: 16px;
 }
 img {
   width: 400px;
-  margin-left: 200px;
+  margin-left: 100px;
   margin-right: 500px;
   padding: 20px;
 }
@@ -55,7 +55,7 @@ header {
 border-radius: 100%; // full circular image
 }
 
-
+.Points{color: blue; font-size: 18px, padding: 5px;}
 
 .alignnone{
 -webkit-transition: all 1s ease-in-out;
